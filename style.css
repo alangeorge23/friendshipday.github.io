@@ -16,14 +16,7 @@ body {
   pointer-events: none;
   transform: translateZ(7em);
   padding: 30px;
-  background: linear-gradient(
-    to bottom,
-    #020333 0%,
-    #020333 75%,
-    #ffffff 75%,
-    #ffffff 100%
-  );
-
+  background-color: #020333;
   border-radius: 5px;
   width: 400px;
   height: 250px;
