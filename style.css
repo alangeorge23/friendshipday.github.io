@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Concert+One|Pacifico");
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
 
 body {
   background: radial-gradient(
@@ -9,7 +9,7 @@ body {
   perspective: 1000px;
   display: flex;
   transform-style: preserve-3d;
-  font-family: "Pacifico", cursive;
+  font-family: 'Bungee Spice', cursive;
 }
 .card {
   top: 20vh;
