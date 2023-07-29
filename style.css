@@ -111,3 +111,6 @@ bokeh {
     transform: translate(50vw, 50vh);
   }
 }
+h1, p{
+  color:#f3f3f3;
+}
